@@ -10,8 +10,9 @@ function loadgoods(){
         for (var key in data){
             out+='<div class = "single-goods">';
             out+='<h3>' + data[key] ['name'] + '<h3>';
-            out+='<p>' + data[key] ['price'] + '<p>';
+            out+='<p>Цена: ' + data[key] ['price'] + '<p>';
             out+='<img src="'+data[key].image+'">';
+            out+='<button>Купить</button>'
             out+='</div>';
         }
         $('#goods').html(out);

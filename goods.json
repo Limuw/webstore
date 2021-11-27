@@ -9,18 +9,18 @@
         "name" : "Лук",
         "price" : 3,
         "description" : "Цена указана за 1 кг",
-        "image" : "images/onion.jpg"
+        "image" : "images/onion.png"
     },
     "11113" : {
         "name" : "Груша",
         "price" : 6,
         "description" : "Цена указана за 1 кг",
-        "image" : "images/pear.jpg"
+        "image" : "images/coolpear.jpg"
     },
     "11114" : {
         "name" : "Помидоры",
         "price" : 7,
         "description" : "Цена указана за 1 кг",
-        "image" : "images/tomato.jpg"
+        "image" : "images/otamot.jpg"
     }
 }

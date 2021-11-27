@@ -6,3 +6,7 @@
     float: left;
     text-align: center;
 }
+.single-goods button{
+    display: block;
+    margin: 20px auto;
+}
