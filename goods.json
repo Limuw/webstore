@@ -1,0 +1,26 @@
+{
+    "11111" : {
+        "name" : "Яблоки",
+        "price" : 5,
+        "description" : "Цена указана за 1 кг",
+        "image" : "images/apple.jpg"
+    },
+    "11112" : {
+        "name" : "Лук",
+        "price" : 3,
+        "description" : "Цена указана за 1 кг",
+        "image" : "images/onion.jpg"
+    },
+    "11113" : {
+        "name" : "Груша",
+        "price" : 6,
+        "description" : "Цена указана за 1 кг",
+        "image" : "images/pear.jpg"
+    },
+    "11114" : {
+        "name" : "Помидоры",
+        "price" : 7,
+        "description" : "Цена указана за 1 кг",
+        "image" : "images/tomtato.jpg"
+    }
+}
