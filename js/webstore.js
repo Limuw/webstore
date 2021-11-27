@@ -8,8 +8,11 @@ function loadgoods(){
         //console.log(data);
         var out = '';
         for (var key in data){
-            out +='<p>' + data [key] ['name'] + '<p>';
-            out +='<p>' + data [key] ['price'] + '<p>';
+            out+='<div class = "single-goods">';
+            out+='<h3>' + data[key] ['name'] + '<h3>';
+            out+='<p>' + data[key] ['price'] + '<p>';
+            out+='<img src="'+data[key].image+'">';
+            out+='</div>';
         }
         $('#goods').html(out);
     })

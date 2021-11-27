@@ -3,7 +3,7 @@
         "name" : "Яблоки",
         "price" : 5,
         "description" : "Цена указана за 1 кг",
-        "image" : "images/apple.jpg"
+        "image" : "images/apple.png"
     },
     "11112" : {
         "name" : "Лук",
@@ -21,6 +21,6 @@
         "name" : "Помидоры",
         "price" : 7,
         "description" : "Цена указана за 1 кг",
-        "image" : "images/tomtato.jpg"
+        "image" : "images/tomato.jpg"
     }
 }
